@@ -1,10 +1,16 @@
 _repo: The-Story-of-the-Submarine_50582
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50582-h/images/cover.jpg
 creator:
   author:
     agent_name: Bishop, Farnham
     gutenberg_agent_id: '45987'
     url: http://www.gutenberg.org/2009/agents/45987
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50582#The-Story-of-the-Submarine
 gutenberg_issued: '2015-11-30'
 gutenberg_type: Text
 identifiers:
